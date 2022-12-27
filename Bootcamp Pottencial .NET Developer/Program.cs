@@ -1,5 +1,91 @@
 ﻿using Bootcamp_Pottencial_.NET_Developer.Models;
 
+string opcao;
+bool exibirMenu = true;
+
+while(exibirMenu){
+    
+    Console.Clear();
+    System.Console.WriteLine("Digite uma opção: ");
+    System.Console.WriteLine("1 - Cadastrar");
+    System.Console.WriteLine("2 - Buscar");
+    System.Console.WriteLine("3 - Excluir");
+    System.Console.WriteLine("4 - Encerrar");
+    
+     opcao = Console.ReadLine();
+
+     switch(opcao){
+        case "1":
+            Console.WriteLine("Cadastro de cliente");
+            break;
+
+        case "2":
+            Console.WriteLine("Busca de clientes");
+        break;
+    
+        case "3":
+            Console.WriteLine("Excluir cliente");
+        break;
+
+        case "4":
+            Console.WriteLine("Encerrar programa");
+            exibirMenu = false;
+            //Environment.Exit(0);
+            
+        break;
+
+        default:
+            System.Console.WriteLine("Opção inválida");
+            break;
+     }
+}
+
+
+
+
+
+
+
+
+// Laços de repetição
+
+// int soma = 0 , numero= 0;
+
+// do {
+//     System.Console.WriteLine("Digite um número. (0 para parar)");
+//     numero = Convert.ToInt32(Console.ReadLine());    
+//     soma += numero;
+
+// }while(numero != 0);
+
+// System.Console.WriteLine($"Total da soma dos numeros é: {soma}");
+
+
+
+//cuidado com loop infinito
+
+// int numero = 5;
+// int b = 1;
+// while(b <= 10){
+//     System.Console.WriteLine($"{numero} x {b} = {numero * b }");
+//     b++;
+//     // interromper fluxo de execução
+//     if (b == 5) {
+//         break;
+//     }
+// }
+
+
+
+
+
+
+// int numero = 5;
+// for(int b = 0; b <= 10; b++){
+//     System.Console.WriteLine($"{numero} x {b} = {numero * b }");
+// }
+
+
 
 
 // Classe operadores matemáticos
@@ -14,9 +100,6 @@
 // operacaoMatematica.Seno(30);
 // operacaoMatematica.Tangente(30);
 // operacaoMatematica.RaizQuadrada(9);
-
-
-
 
 
 
