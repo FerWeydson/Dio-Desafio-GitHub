@@ -7,8 +7,8 @@ namespace Bootcamp_Pottencial_dotNET_Developer.Models
 {
     public class Pessoa
     {
-        public string Name { get; set; }
-        public string Sobrenome { get; set; }
+        public string? Name { get; set; }
+        public string? Sobrenome { get; set; }
         public int Age { get; set; }
 
         public void apresentar() {

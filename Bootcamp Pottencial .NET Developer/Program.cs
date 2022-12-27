@@ -1,25 +1,66 @@
-﻿using Bootcamp_Pottencial_dotNET_Developer.Models;
+﻿using Bootcamp_Pottencial_.NET_Developer.Models;
 
 
 
-// Operadores condicionais
+// Classe operadores matemáticos
 
-int quantidadeEmEstoque = 40;
-int quantidadeCompra = 5;
-bool possivelVenda = quantidadeEmEstoque >= quantidadeCompra;
+// Calculadora operacaoMatematica = new Calculadora();
+// operacaoMatematica.Somar(15, 5);
+// operacaoMatematica.Subtrair(15, 5);
+// operacaoMatematica.Dividir(15, 5);
+// operacaoMatematica.Multiplicar(15, 5);
+// operacaoMatematica.Potencia(2, 2);
+// operacaoMatematica.Coseno(30);
+// operacaoMatematica.Seno(30);
+// operacaoMatematica.Tangente(30);
+// operacaoMatematica.RaizQuadrada(9);
 
-System.Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
-System.Console.WriteLine($"Quantidade compra: {quantidadeCompra}");
-System.Console.WriteLine($"É possível realizar venda? {possivelVenda}");
 
-if(quantidadeCompra == 0) {
-    System.Console.WriteLine("Venda inválida");
-    }else if (possivelVenda) {
-    System.Console.WriteLine("Venda realizada");
-    }else {
-    System.Console.WriteLine("Desculpe, quantidade insuficiente no estoque.");
-    }
 
+
+
+
+// Operadores condicionais e lógicos
+
+
+// bool presencaMinima = false;
+// double media = 7.5;
+
+// if(presencaMinima && media >= 7) {
+//     System.Console.WriteLine("Aluno aprovado");
+// }else {
+//     System.Console.WriteLine("Aluno reprovado");
+// }
+
+
+
+// bool maiorDeIdade = true;
+// bool possuiAutorizacaoDoResponsavel = false;
+
+// if(maiorDeIdade || possuiAutorizacaoDoResponsavel) {
+//     System.Console.WriteLine("Entrada liberada.");
+// }else {
+//     System.Console.WriteLine("Entrada negada.");
+// }
+
+
+
+
+// int quantidadeEmEstoque = 40;
+// int quantidadeCompra = 5;
+// bool possivelVenda = quantidadeCompra > 0 && quantidadeEmEstoque >= quantidadeCompra;
+
+// System.Console.WriteLine($"Quantidade em estoque: {quantidadeEmEstoque}");
+// System.Console.WriteLine($"Quantidade compra: {quantidadeCompra}");
+// System.Console.WriteLine($"É possível realizar venda? {possivelVenda}");
+
+// if(quantidadeCompra == 0) {
+//     System.Console.WriteLine("Venda inválida");
+//     }else if (possivelVenda) {
+//     System.Console.WriteLine("Venda realizada");
+//     }else {
+//     System.Console.WriteLine("Desculpe, quantidade insuficiente no estoque.");
+//     }
 
 
 
@@ -54,9 +95,6 @@ if(quantidadeCompra == 0) {
 // int a = 5;
 // double b = a;
 // // Console.WriteLine();
-
-
-
 
 
 
