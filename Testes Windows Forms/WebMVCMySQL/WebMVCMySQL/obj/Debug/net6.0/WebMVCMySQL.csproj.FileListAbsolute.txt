@@ -1,0 +1,8 @@
+F:\Projetos\C# e .Net\WebMVCMySQL\WebMVCMySQL\obj\Debug\net6.0\WebMVCMySQL.csproj.AssemblyReference.cache
+F:\Projetos\C# e .Net\WebMVCMySQL\WebMVCMySQL\obj\Debug\net6.0\WebMVCMySQL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\C# e .Net\WebMVCMySQL\WebMVCMySQL\obj\Debug\net6.0\WebMVCMySQL.AssemblyInfoInputs.cache
+F:\Projetos\C# e .Net\WebMVCMySQL\WebMVCMySQL\obj\Debug\net6.0\WebMVCMySQL.AssemblyInfo.cs
+F:\Projetos\C# e .Net\WebMVCMySQL\WebMVCMySQL\obj\Debug\net6.0\WebMVCMySQL.csproj.CoreCompileInputs.cache
+F:\Projetos\C# e .Net\WebMVCMySQL\WebMVCMySQL\obj\Debug\net6.0\WebMVCMySQL.MvcApplicationPartsAssemblyInfo.cache
+F:\Projetos\C# e .Net\WebMVCMySQL\WebMVCMySQL\obj\Debug\net6.0\WebMVCMySQL.RazorAssemblyInfo.cache
+F:\Projetos\C# e .Net\WebMVCMySQL\WebMVCMySQL\obj\Debug\net6.0\WebMVCMySQL.RazorAssemblyInfo.cs
