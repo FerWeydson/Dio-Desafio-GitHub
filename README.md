@@ -1,2 +1,3 @@
 # Repositório do desafio de projeto sobre git/github da Digital Innovation One
-Desafio de projeto sobre Git/GitHub
+
+Repositório criado para o desafio, mas também para estudos/pequenos testes realizados principalmente em C#
