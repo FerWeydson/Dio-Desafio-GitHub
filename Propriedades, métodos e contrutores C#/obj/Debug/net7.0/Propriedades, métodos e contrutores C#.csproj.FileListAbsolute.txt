@@ -1,0 +1,17 @@
+F:\Projetos\C# e .Net\Propriedades, métodos e contrutores C#\Propriedades, métodos e contrutores C#\bin\Debug\net7.0\Propriedades, métodos e contrutores C#.exe
+F:\Projetos\C# e .Net\Propriedades, métodos e contrutores C#\Propriedades, métodos e contrutores C#\bin\Debug\net7.0\Propriedades, métodos e contrutores C#.deps.json
+F:\Projetos\C# e .Net\Propriedades, métodos e contrutores C#\Propriedades, métodos e contrutores C#\bin\Debug\net7.0\Propriedades, métodos e contrutores C#.runtimeconfig.json
+F:\Projetos\C# e .Net\Propriedades, métodos e contrutores C#\Propriedades, métodos e contrutores C#\bin\Debug\net7.0\Propriedades, métodos e contrutores C#.dll
+F:\Projetos\C# e .Net\Propriedades, métodos e contrutores C#\Propriedades, métodos e contrutores C#\bin\Debug\net7.0\Propriedades, métodos e contrutores C#.pdb
+F:\Projetos\C# e .Net\Propriedades, métodos e contrutores C#\Propriedades, métodos e contrutores C#\obj\Debug\net7.0\Propriedades, métodos e contrutores C#.csproj.AssemblyReference.cache
+F:\Projetos\C# e .Net\Propriedades, métodos e contrutores C#\Propriedades, métodos e contrutores C#\obj\Debug\net7.0\Propriedades, métodos e contrutores C#.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\C# e .Net\Propriedades, métodos e contrutores C#\Propriedades, métodos e contrutores C#\obj\Debug\net7.0\Propriedades, métodos e contrutores C#.AssemblyInfoInputs.cache
+F:\Projetos\C# e .Net\Propriedades, métodos e contrutores C#\Propriedades, métodos e contrutores C#\obj\Debug\net7.0\Propriedades, métodos e contrutores C#.AssemblyInfo.cs
+F:\Projetos\C# e .Net\Propriedades, métodos e contrutores C#\Propriedades, métodos e contrutores C#\obj\Debug\net7.0\Propriedades, métodos e contrutores C#.csproj.CoreCompileInputs.cache
+F:\Projetos\C# e .Net\Propriedades, métodos e contrutores C#\Propriedades, métodos e contrutores C#\obj\Debug\net7.0\Propriedades, métodos e contrutores C#.dll
+F:\Projetos\C# e .Net\Propriedades, métodos e contrutores C#\Propriedades, métodos e contrutores C#\obj\Debug\net7.0\refint\Propriedades, métodos e contrutores C#.dll
+F:\Projetos\C# e .Net\Propriedades, métodos e contrutores C#\Propriedades, métodos e contrutores C#\obj\Debug\net7.0\Propriedades, métodos e contrutores C#.pdb
+F:\Projetos\C# e .Net\Propriedades, métodos e contrutores C#\Propriedades, métodos e contrutores C#\obj\Debug\net7.0\Propriedades, métodos e contrutores C#.genruntimeconfig.cache
+F:\Projetos\C# e .Net\Propriedades, métodos e contrutores C#\Propriedades, métodos e contrutores C#\obj\Debug\net7.0\ref\Propriedades, métodos e contrutores C#.dll
+F:\Projetos\C# e .Net\Propriedades, métodos e contrutores C#\Propriedades, métodos e contrutores C#\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Projetos\C# e .Net\Propriedades, métodos e contrutores C#\Propriedades, métodos e contrutores C#\obj\Debug\net7.0\Propriedades, métodos e contrutores C#.csproj.CopyComplete

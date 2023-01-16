@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vMdwdVSzI+byjIelZuPkeNm084IA2xSlxYOWg7Y9dx+Boa7Lutv4L0pCRicOueIK/NWf0tjTqxzfewunv4xsJg==",
+  "success": true,
+  "projectFilePath": "F:\\Projetos\\C# e .Net\\Propriedades, métodos e contrutores C#\\Propriedades, métodos e contrutores C#\\Propriedades, métodos e contrutores C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Weydson F\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
