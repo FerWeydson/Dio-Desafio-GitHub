@@ -2,13 +2,6 @@
 using Newtonsoft.Json;
 
 
-bool? desejaReceberEmail = null;
-if (desejaReceberEmail.HasValue && desejaReceberEmail.Value) {
-    System.Console.WriteLine("Usuário deseja receber email");
-}else {
-    System.Console.WriteLine("Usuário não respondeu ou não deseja receber email");
-}
-
 
 
 // Serializar uma lista em Json
